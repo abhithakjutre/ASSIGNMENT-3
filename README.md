@@ -28,7 +28,7 @@ The project is designed to provide a basic understanding of mathematical operati
 
 | Tech Stack | Version |
 | --- | --- |
-| Python | 3.9.7 |
+| Python | 3.10 |
 | IDE | PyCharm |
 
 **📁 Project Structure**
